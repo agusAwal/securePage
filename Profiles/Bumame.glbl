@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Bumame</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bumame'</initValue>
+      <name>merchantName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'IIOE0I10I0AP0A00P00PY1EKK00A00KP'</initValue>
+      <name>apiKey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'T1AxRTAwMDAwMDQ3'</initValue>
+      <name>merchantId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'082021-1629464540'</initValue>
+      <name>orderId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'50000'</initValue>
+      <name>amount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'100001857'</initValue>
+      <name>requestId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bri'</initValue>
+      <name>bankName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

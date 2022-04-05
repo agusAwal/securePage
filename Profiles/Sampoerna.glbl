@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Sampoerna</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sampoerna'</initValue>
+      <name>merchantName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'YI02BEAE53PKBO5Y9KP1K05P01P05P8E'</initValue>
+      <name>apiKey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'T1AxQjAwMDI5MzU4'</initValue>
+      <name>merchantId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'082021-1629464638'</initValue>
+      <name>orderId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'11000'</initValue>
+      <name>amount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'100001919'</initValue>
+      <name>requestId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bri'</initValue>
+      <name>bankName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
